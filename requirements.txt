@@ -1,0 +1,12 @@
+pandas 
+os
+python 
+fitz
+pydub
+yt_dlp
+re
+json
+google
+librosa
+numpy
+soundfile
